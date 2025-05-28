@@ -190,15 +190,21 @@ And the TIMER2_InterruptSvcRoutine function only toggles the logical state of an
 
 This example uses timer 2 in 32-bit mode, which means that timer 3 works together to achieve that bit width.
 
-!https://pbs.twimg.com/media/F6uTFG7XsAAGTGU?format=png&name=900x900!
+<p align="center">
+<img src="https://pbs.twimg.com/media/F6uTFG7XsAAGTGU?format=png&name=900x900" width="700">
+</p>
 
 In the TMR2 module, it is configured to 32 bits, and it is indicated that the enabling of the interrupt must be done in the secondary or slave timer, in this case it is the TMR3, and its configuration is:
 
-!https://pbs.twimg.com/media/F6uTwTRXsAALP56?format=png&name=medium!
+<p align="center">
+<img src="https://pbs.twimg.com/media/F6uTwTRXsAALP56?format=png&name=medium" width="700">
+</p>
 
 I was initially thinking of using the capture module to measure the frequency of the AC signal, it also has an external interruption:
 
-!https://pbs.twimg.com/media/F6zSRRFWoAA0Ox0?format=png&name=small!
+<p align="center">
+<img src="https://pbs.twimg.com/media/F6zSRRFWoAA0Ox0?format=png&name=small" width="700">
+</p>
 
 In theory, only one of the two options could be used, but using the System module, you could enable that interrupt:
 
