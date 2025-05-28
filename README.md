@@ -22,4 +22,5 @@ Self-Powered Design: No external power source is required. The circuit is powere
 ## [i. Creating microcontroller code.](CreatingMicrocontrollerCode.md) 
 ## [j. Process of acquiring analog signal samples with the ADC.](ADC.md)
 ## [k. Task that controls the acoustic signal (buzzer).](Buzzer.md)
+## [l. Task that manages the 7‐segment display.](Display.md)
 
