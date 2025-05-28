@@ -8,10 +8,10 @@ Key Features:
 TRUE RMS Measurement: The device computes precise mathematical calculations on the analyzed signal to deliver an accurate true RMS value.
 Frequency Meter: Accurately measures the frequency of the input AC signal, making it versatile for various applications.
 Self-Powered Design: No external power source is required. The circuit is powered directly from the analyzed signal itself.
-For more details, please refer to the Wiki.
-
 
 [![Texto alternativo](https://pbs.twimg.com/media/GAwrYZNXUAARow1?format=jpg&name=large)](https://www.youtube.com/watch?v=dqBPHb_SDKo)
+
+## [a. Project Concept](ProjectConcept.md)
 
 
 
