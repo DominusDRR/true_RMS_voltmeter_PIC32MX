@@ -18,4 +18,5 @@ Self-Powered Design: No external power source is required. The circuit is powere
 ## [e. Simulation of the signal conditioning circuit.](SimulationSignalConditioningCircuit.md)
 ## [f. Signal conditioning testing with prototype hardware.](SignalConditioning.md)
 ## [g. PCB Layout.](PCBLayout.md)
+## [h. RMS value calculation analysis.](RMSCalueCalculationAnalysis.md)  
 
