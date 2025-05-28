@@ -12,8 +12,8 @@ Self-Powered Design: No external power source is required. The circuit is powere
 [![Texto alternativo](https://pbs.twimg.com/media/GAwrYZNXUAARow1?format=jpg&name=large)](https://www.youtube.com/watch?v=dqBPHb_SDKo)
 
 ## [a. Project Concept](ProjectConcept.md)
-## [a. Signal conditioning circuit](SignalConditioningCircuit.md)
-
+## [b. Signal conditioning circuit](SignalConditioningCircuit.md)
+## [c. Active filter design](ActiveFilterDesign.md)
 
 
 
