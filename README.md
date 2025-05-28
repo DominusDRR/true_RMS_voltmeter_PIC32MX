@@ -24,4 +24,5 @@ Self-Powered Design: No external power source is required. The circuit is powere
 ## [k. Task that controls the acoustic signal (buzzer).](Buzzer.md)
 ## [l. Task that manages the 7‐segment display.](Display.md)
 ## [m. Task that performs the RMS calculation.](RMS.md)
+## [n. Task that manages the push button.](PushButton.md)
 
