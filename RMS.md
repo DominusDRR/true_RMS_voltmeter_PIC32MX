@@ -109,11 +109,12 @@ And finally, that total sum is divided by the number of samples.
 The fourth state is simply to obtain the square root of the calculation performed in the previous case and send it to the display task.
 
 <pre><code> case APPRMS_ESTADO_EXTRAER_RAIZ_CUADRADA:
-        {
-            rmsDisplay(sqrtf(apprmsData.sumatorio1)); //square root and send it to display
-            apprmsData.state = APPRMS_ESTADO_INICIAL;
-            break;
-        }</code></pre>
+   {
+      rmsDisplay(sqrtf(apprmsData.sumatorio1)); //square root and send it to display
+      apprmsData.state = APPRMS_ESTADO_INICIAL;
+      break;
+   }
+</code></pre>
 
 
 
