@@ -20,4 +20,5 @@ Self-Powered Design: No external power source is required. The circuit is powere
 ## [g. PCB Layout.](PCBLayout.md)
 ## [h. RMS value calculation analysis.](RMSCalueCalculationAnalysis.md)  
 ## [i. Creating microcontroller code.](CreatingMicrocontrollerCode.md) 
+## [j. Process of acquiring analog signal samples with the ADC.](ADC.md)
 
