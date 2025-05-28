@@ -14,6 +14,7 @@ Self-Powered Design: No external power source is required. The circuit is powere
 ## [a. Project Concept](ProjectConcept.md)
 ## [b. Signal conditioning circuit](SignalConditioningCircuit.md)
 ## [c. Active filter design](ActiveFilterDesign.md)
+## [d. Assignment of microcontroller pins or terminals](AssignmentMicrocontrollerPinsTerminals.md)
 
 
 
