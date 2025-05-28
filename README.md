@@ -17,4 +17,5 @@ Self-Powered Design: No external power source is required. The circuit is powere
 ## [d. Assignment of microcontroller pins or terminals.](AssignmentMicrocontrollerPinsTerminals.md)
 ## [e. Simulation of the signal conditioning circuit.](SimulationSignalConditioningCircuit.md)
 ## [f. Signal conditioning testing with prototype hardware.](SignalConditioning.md)
+## [g. PCB Layout.](PCBLayout.md)
 
