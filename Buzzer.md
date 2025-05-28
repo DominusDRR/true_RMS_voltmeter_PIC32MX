@@ -212,7 +212,9 @@ That acoustic signal will be generated in a new state, but that will be later, f
 
 Download the new code to the hardware and this is the result
 
-"Test sound 1":https://pbs.twimg.com/media/F6VzQ28WgAA2cRf?format=png&name=medium!
+<p align="center">
+<img src="https://pbs.twimg.com/media/F6VzQ28WgAA2cRf?format=png&name=medium" width="700">
+</p>
 
 You can see that there is an unwanted tone before the melody starts.
 
